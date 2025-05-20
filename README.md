@@ -1,4 +1,4 @@
-# 🧠 Beecrowd-Aquecimento- OBI 2014
+# 🧠 Beecrowd - Aquecimento OBI 2014
 
 Repositório criado para armazenar e compartilhar as minhas soluções para os exercícios da lista de **Aquecimento OBI 2014**, disponíveis no [link](https://judge.beecrowd.com/pt/problems/origin/16).
 
